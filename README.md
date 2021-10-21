@@ -1,5 +1,5 @@
 # Temporally Coherent Video Colorization with Generative Adversarial Networks (GANs)
- This repository contains the Python codes of the project "Temporally Coherent Video Colorization with GANs." In this project, temporally coherent video colorization the Dragon Ball Z Anime has been done with Generative Adversarial Networks (GANs). The content of each part is as follows:
+ This repository contains the Python codes of the project "Temporally Coherent Video Colorization with GANs." In this project, temporally coherent video colorization on the Dragon Ball Z Anime has been done with Generative Adversarial Networks (GANs). The content of each part is as follows:
  ## first:
  In this part, only GAN loss function is used to train the model.
  ## second:
